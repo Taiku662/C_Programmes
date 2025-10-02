@@ -1,4 +1,7 @@
 /*
+PURITY TAIKU
+CT100/G/26152/25
+A program of purchasing mobile data bundles
 */
 #include <stdio.h>
 int main()
@@ -43,4 +46,5 @@ default:
 }
 	
 	return 0;
+
 }
