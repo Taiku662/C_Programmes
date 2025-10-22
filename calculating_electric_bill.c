@@ -1,4 +1,7 @@
 /*
+PURITY TAIKU
+CT100/G/26152/25
+A Function calculating electrc bill
 */
 
 #include <stdio.h>
@@ -56,4 +59,5 @@ else
 bill=(100 * 10)+(100*15)+(units - 200 )*20;
 
 return bill;
+
 }
